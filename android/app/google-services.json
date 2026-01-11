@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318229393468",
+    "project_id": "crudp12-98e14",
+    "storage_bucket": "crudp12-98e14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318229393468:android:5b9f242725f7571fd09339",
+        "android_client_info": {
+          "package_name": "com.example.approncelizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_B2Zpt_Dp9xRQgp1ephmcylK_r8DmtwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
