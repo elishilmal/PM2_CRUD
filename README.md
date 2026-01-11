@@ -21,3 +21,6 @@ Kelas : TIF RP 23 CID B<br>
 <br>
 ### Hapus Barang
 ![Hapus](assets/screenshots/hapus_barang.jpg)
+
+## 📸 Demo Aplikasi
+![Demo](assets/demo/demo_aplikasi.gif)
