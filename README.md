@@ -1,16 +1,20 @@
-# approncelizz
+## Data Diri
+Nama : Elis Hilmal Muhibah Syawalah<br>
+Nim : 23552011313<br>
+Kelas : TIF RP 23 CID B<br>
 
-A new Flutter project.
+# Aplikasi Roncelizz
 
-## Getting Started
+-----------||--------------------------------------------||---------------------||---------------
+## 📸 Screenshot Aplikasi
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Page 
+![Awal](assets/screenshots/tampilan_awal.jpg)
+<br> 
+![Tambah](assets/screenshots/masukkan_barang.jpg)
+<br> 
+![Muncul](assets/screenshots/barang_muncul.jpg)
+<br>
+![Edit](assets/screenshots/edit_barang.jpg) 
+<br>
+![Hapus](assets/screenshots/hapus_barang.jpg)
