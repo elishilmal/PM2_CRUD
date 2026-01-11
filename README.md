@@ -5,16 +5,19 @@ Kelas : TIF RP 23 CID B<br>
 
 # Aplikasi Roncelizz
 
------------||--------------------------------------------||---------------------||---------------
 ## 📸 Screenshot Aplikasi
 
-### Home Page 
+### Tampilan Awal 
 ![Awal](assets/screenshots/tampilan_awal.jpg)
 <br> 
+### Tambahkan Barang
 ![Tambah](assets/screenshots/masukkan_barang.jpg)
-<br> 
+<br>
 ![Muncul](assets/screenshots/barang_muncul.jpg)
 <br>
+### Edit Barang
 ![Edit](assets/screenshots/edit_barang.jpg) 
+![Edit](assets/screenshots/edit.jpg) 
 <br>
+### Hapus Barang
 ![Hapus](assets/screenshots/hapus_barang.jpg)
