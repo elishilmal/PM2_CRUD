@@ -90,9 +90,14 @@ class _HomePageState extends State<HomePage> {
                   harga: int.parse(hargaCtrl.text),
                 ),
               );
+
+              namaCtrl.clear();
+              stokCtrl.clear();
+              hargaCtrl.clear();
+
               Navigator.pop(context);
             },
-            child: const Text("Update"),
+            child: const Text("Ubah"),
           ),
         ],
       ),
@@ -111,21 +116,13 @@ class _HomePageState extends State<HomePage> {
         content: Text('Apakah kamu yakin ingin menghapus "${barang.nama}"?'),
         actions: [
           TextButton(
-            onPressed: () {
-              Navigator.pop(context); // tutup dialog
-            },
+            onPressed: () => Navigator.pop(context),
             child: const Text('Batal'),
           ),
           ElevatedButton(
-            style: ElevatedButton.styleFrom(
-              backgroundColor: const Color.fromARGB(255, 255, 255, 255),
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(12),
-              ),
-            ),
             onPressed: () {
               firestoreService.hapusBarang(barang.id);
-              Navigator.pop(context); // tutup dialog
+              Navigator.pop(context);
             },
             child: const Text('Hapus'),
           ),
