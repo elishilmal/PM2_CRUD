@@ -17,5 +17,4 @@ Kelas : TIF RP 23 CID B<br>
 <br>
 ![Edit](assets/screenshots/edit_barang.jpg) 
 <br>
-![Hapus](assets/screenshots/hapus_barang.jpg) 
-<br>
+![Hapus](assets/screenshots/hapus_barang.jpg)
